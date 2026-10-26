@@ -1,4 +1,4 @@
-# BNPL-CREDIT-RISK-DEFAULTS-ANALYSIS-# 💳 Buy Now, Pay Later (BNPL) Credit Risk & Defaults Analysis
+# 💳 Buy Now, Pay Later (BNPL) Credit Risk & Defaults Analysis
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -20,29 +20,51 @@ This project presents an interactive, multi-page business intelligence solution 
 
 ---
 
-## 🔍 Key Insights & Visual Breakdown
+## 📸 Dashboard Preview
 
 ### 1. Executive Overview
-* **Product Category Risk:** Fashion registered the highest number of defaulted orders (889), closely followed by Electronics (813) and Home (810).
-* **Geographic Distribution:** Germany (709) and Canada (675) represented the top regions by default count.
-* **Monthly Default Trends:** Seasonal peaks in default volume occurred in March and October.
+> High-level snapshot tracking overall defaults, monthly trends, category risk, and geographic distribution.
+
+<p align="center">
+  <!-- Drag and drop your Executive Overview image here or replace the path below -->
+  <img src="Screenshots/Executive_Overview.png" alt="Executive Overview Dashboard" width="100%"/>
+</p>
+
+---
 
 ### 2. Customer & Credit Risk Analysis
-* **Credit Score Profile:** Low credit score borrowers (below threshold) accounted for **84.08%** of total defaulted accounts.
-* **Income & Employment:** Low-income earners comprised **63.19%** of defaults, with **Unemployed (1,281)** and **Student (1,229)** employment segments showing the highest vulnerability.
-* **Age Demographics:** Adults (2.3K defaults) and youth formed the largest share of high-risk customers.
+> Deep-dive into demographic risk factors, including age groups, employment status, income bands, and credit score categories.
+
+<p align="center">
+  <!-- Drag and drop your Customer & Credit Risk image here or replace the path below -->
+  <img src="Screenshots/Customer_Credit_Risk.png" alt="Customer and Credit Risk Dashboard" width="100%"/>
+</p>
+
+---
 
 ### 3. Repayment & BNPL Behavior
-* **Delay Brackets:** The **15–21 days delay bracket** formed the single largest group of defaulting accounts (1,331), indicating that early intervention within 14 days is critical.
-* **Missed Payment Triggers:** A single missed payment (1,442 defaults) served as the primary indicator for subsequent account default.
+> Evaluation of missed payments, installment counts, and repayment delay brackets influencing default milestones.
+
+<p align="center">
+  <!-- Drag and drop your Repayment & BNPL Behavior image here or replace the path below -->
+  <img src="Screenshots/Repayment_BNPL_Behavior.png" alt="Repayment and BNPL Behavior Dashboard" width="100%"/>
+</p>
+
+---
+
+## 🔍 Key Insights & Findings
+* **Product Category Risk:** Fashion registered the highest number of defaulted orders (889), closely followed by Electronics (813) and Home (810).
+* **Geographic Distribution:** Germany (709) and Canada (675) represented the top regions by default count.
+* **Credit Score Profile:** Low credit score borrowers accounted for **84.08%** of total defaulted accounts.
+* **Income & Employment:** Low-income earners comprised **63.19%** of defaults, with **Unemployed (1,281)** and **Student (1,229)** segments showing highest vulnerability.
+* **Delay Brackets:** The **15–21 days delay bracket** formed the single largest group of defaulting accounts (1,331), pointing to the need for early intervention.
 
 ---
 
 ## 💡 Strategic Recommendations
 1. **Dynamic Credit Limit Caps:** Reduce maximum checkout approval limits for high-risk demographics (students/unemployed) and low-credit score applicants.
-2. **Early Repayment Alerts:** Deploy automated SMS/Email reminders before the 15-day delay threshold to curb default progression.
-3. **Category-Specific Risk Policies:** Implement stricter BNPL terms or elevated down-payment requirements for high-risk categories like Fashion and Electronics.
-4. **Enhanced Underwriting Rules:** Incorporate alternative credit scoring metrics for applicants with credit scores below 450 to mitigate portfolio losses.
+2. **Early Repayment Alerts:** Deploy automated reminders before the 15-day delay threshold to curb default progression.
+3. **Category-Specific Risk Policies:** Implement stricter BNPL terms or down-payment requirements for high-risk categories like Fashion and Electronics.
 
 ---
 
@@ -52,4 +74,3 @@ This project presents an interactive, multi-page business intelligence solution 
 * **GitHub:** Version Control and Portfolio Documentation.
 
 ---
-
