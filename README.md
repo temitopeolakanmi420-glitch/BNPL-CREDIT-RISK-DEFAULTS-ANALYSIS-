@@ -47,7 +47,7 @@ This project presents an interactive, multi-page business intelligence solution 
 
 <p align="center">
   <!-- Drag and drop your Repayment & BNPL Behavior image here or replace the path below -->
-  <img src="Screenshots/Repayment_BNPL_Behavior.png" alt="Repayment and BNPL Behavior Dashboard" width="100%"/>
+  <img src="Screenshots/Repayment_BNPL_Behavior.png" alt="Repayment and BNPL Behavior Dashboard" width="100%"/>https://github.com/temitopeolakanmi420-glitch/BNPL-CREDIT-RISK-DEFAULTS-ANALYSIS-/blob/main/Screenshot%202026-10-26%20223912.png
 </p>
 
 ---
