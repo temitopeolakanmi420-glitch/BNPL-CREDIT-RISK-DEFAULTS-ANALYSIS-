@@ -1,7 +1,6 @@
 # 💳 Buy Now, Pay Later (BNPL) Credit Risk & Defaults Analysis
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
@@ -37,8 +36,8 @@ This project presents an interactive, multi-page business intelligence solution 
 
 <p align="center">
   <!-- Drag and drop your Customer & Credit Risk image here or replace the path below -->
-  [<img src="Screenshots/Customer_Credit_Risk.png" alt="Customer and Credit Risk Dashboard" width="100%"/>](https://github.com/temitopeolakanmi420-glitch/BNPL-CREDIT-RISK-DEFAULTS-ANALYSIS-/blob/main/Screenshot%202026-10-26%20224012.png)
-</p>
+  [<img src="Screenshots/Customer_Credit_Risk.png" alt="Customer and Credit Risk Dashboard" width="100%"/>
+
 
 ---
 
