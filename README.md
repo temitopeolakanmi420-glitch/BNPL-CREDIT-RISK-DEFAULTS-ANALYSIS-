@@ -27,11 +27,11 @@ This project presents an interactive, multi-page business intelligence solution 
 
 <p align="center">
   <!-- Drag and drop your Executive Overview image here or replace the path below -->
-  <img src="Screenshots/Executive_Overview.png" alt="Executive Overview Dashboard" width="100%"/>
+ [ <img[ src="Screenshots/Executive_Overview.png" alt="Executive Overview Dashboard" width="100%"/>](https://github.com/temitopeolakanmi420-glitch/BNPL-CREDIT-RISK-DEFAULTS-ANALYSIS-/blob/main/Screenshot%202026-10-26%20224051.png)
 </p>
 
 ---
-
+](https://github.com/temitopeolakanmi420-glitch/BNPL-CREDIT-RISK-DEFAULTS-ANALYSIS-/blob/main/Screenshot%202026-10-26%20224051.png)
 ### 2. Customer & Credit Risk Analysis
 > Deep-dive into demographic risk factors, including age groups, employment status, income bands, and credit score categories.
 
